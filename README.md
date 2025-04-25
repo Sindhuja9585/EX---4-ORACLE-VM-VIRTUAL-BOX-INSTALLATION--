@@ -1,5 +1,4 @@
 # EX-4 ORACLE VM VIRTUAL BOX INSTALLATION
-
 ### Reg. No: 212222220047
 ### Name : SINDHUJA P
 
@@ -7,7 +6,6 @@
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
 
 ## Specifications:
-
 ### System Requirements:
 1. **Operating System**: Windows, macOS, or Linux-based OS
 2. **Processor**: x86/AMD64-compatible CPU (Intel or AMD)
@@ -44,9 +42,7 @@ To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a 
 2. The VirtualBox Manager should open, showing options to create and manage virtual machines.
 
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/e9017367-e447-4cf5-ba5c-f5f54db3ff05)
-
 
 ## Result: 
 
